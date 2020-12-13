@@ -1,0 +1,11 @@
+.root{
+    -fx-font-size: 14pt;
+    -fx-font-family: "Courier New";
+}
+
+.highlightedRow {
+    -fx-background-color: brown;
+    -fx-background-insets: 0, 1, 2;
+    -fx-background: -fx-accent;
+    -fx-text-fill: -fx-selection-bar-text;
+}
